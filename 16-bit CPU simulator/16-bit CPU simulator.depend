@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1543601429 source:c:\users\georg\desktop\16-bit cpu simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"IO_functions.h"
+
+1543600575 c:\users\georg\desktop\16-bit cpu simulator\io_functions.h
+
