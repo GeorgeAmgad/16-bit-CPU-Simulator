@@ -2,8 +2,8 @@
 
 
 -the processor makes two simultanious fetches for each instruction 
--one for the operation code and one for the operad
--so when writing on the memory each whole instruction takes two spaces 
+one for the operation code and one for the operad
+so when writing on the memory each whole instruction takes two spaces 
 
 
 for example:
