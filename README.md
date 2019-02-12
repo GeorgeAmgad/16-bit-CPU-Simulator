@@ -18,5 +18,5 @@ is written as:
 
 IMPORTANT: u must add the stop instruction (11111111) after the code so the CPU doesnt keep fetching garbage and crash
 
-- to stop entering data in memory and see the results hit ctr+z then hit enter ;)
+- to stop entering data in memory and see the results hit ctr+z then hit enter
 
